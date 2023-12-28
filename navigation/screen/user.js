@@ -6,3 +6,5 @@ console.log("hello dev Duc");
 
 //git push
 
+//Ben partner : git pull
+
