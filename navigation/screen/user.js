@@ -5,4 +5,4 @@ console.log("hello dev Duc");
 //git commit -m"tieu de day code" : tieu de day code
 
 //git push
-
+//chib 
